@@ -1,9 +1,6 @@
 [submodule "vim/pack/medivhok/start/vim-airline"]
 	path = vim/pack/medivhok/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
-[submodule "vim/pack/medivhok/opt/gruvbox"]
-	path = vim/pack/medivhok/opt/gruvbox
-	url = https://github.com/morhetz/gruvbox.git
 [submodule "vim/pack/medivhok/start/vim-json"]
 	path = vim/pack/medivhok/start/vim-json
 	url = https://github.com/elzr/vim-json.git
