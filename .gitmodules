@@ -43,3 +43,6 @@
 [submodule "vim/pack/medivhok/start/vim-sensible"]
 	path = vim/pack/medivhok/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim/pack/medivhok/start/gruvbox"]
+	path = vim/pack/medivhok/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
